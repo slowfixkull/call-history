@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Dependency Management
+*.lock
+pipenv.lock
+requirements.txt
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+.db
+
+# Environment variables
+.env
